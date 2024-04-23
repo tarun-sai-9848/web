@@ -1,0 +1,144 @@
+body {
+    background-color: #F3ECEA;
+    color: white;
+    margin: 0px;
+    width: 100%;
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.header {
+    background-color: #282A35;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.home1{
+    margin-left: -20px;
+}
+
+
+.home {
+    margin-left: 10px;
+    text-align: center;
+}
+
+
+.scroll{
+    background-color: hwb(313 12% 46%);
+    color: white;
+    width: 100%;
+    padding: 1px;
+    margin-top: 60px;
+    position: fixed;
+}
+
+.fixed{
+    height: 80px;
+}
+
+
+.all{
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    text-align: center;
+    background-color: hwb(313 12% 46%);
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+.culturals img {
+    border-radius: 50%;
+}
+
+.sports img {
+    border-radius: 50%;
+}
+
+.coding img {
+    border-radius: 50%;
+}
+
+.food img {
+    border-radius: 50%;
+}
+
+.vertical1,
+.vertical2,
+.vertical3,
+.vertical4 {
+    margin: 10px;
+}
+
+.footer{
+    width: 104.5%;
+    padding:1px;
+    background-color: #282A35;
+    height: 320px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.footerq{
+    width: 104.5%;
+    padding:1px;
+    background-color: #282A35;
+    height: 450px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.footer1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.footer2{
+    margin-left: 20px;
+    align-items: center;
+    
+}
+
+.insta img{
+    border-radius: 50%;
+    
+}
+
+/* culturals */
+
+.events{
+    padding: 10px;
+}
+.center{
+    text-align: center;
+}
+
+.post{
+    background-color:  #282A35;
+    margin-left: 20%;
+    margin-right: 15%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.post img{
+    width: 100%;
+}
+
+.center{
+    text-align: center;
+}
